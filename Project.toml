@@ -1,0 +1,17 @@
+name = "gmime_jll"
+uuid = "84a963f3-210d-52bd-a31c-8c93a6d2cb5c"
+version = "3.2.15+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Libdl = "< 0.0.1, 1"
+Glib_jll = "2.68.1"
+Artifacts = "< 0.0.1, 1"

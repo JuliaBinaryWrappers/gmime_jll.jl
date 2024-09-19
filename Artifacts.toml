@@ -1,0 +1,143 @@
+[[gmime]]
+arch = "aarch64"
+git-tree-sha1 = "3310f65fb65f828bb39899150c59cf0988723e98"
+os = "macos"
+
+    [[gmime.download]]
+    sha256 = "834ec800310f87fd680074425a997b501ccceb9fe47cddcb7e1d45819bd6231c"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.aarch64-apple-darwin.tar.gz"
+[[gmime]]
+arch = "aarch64"
+git-tree-sha1 = "57270456f6ae20b1a12a17d733aab4e1f1821b07"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "fd6009d0c27bbc49f9ac477b7d83b3cdbc6a820bf1e258742bd6d747dfaf3e17"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.aarch64-linux-gnu.tar.gz"
+[[gmime]]
+arch = "aarch64"
+git-tree-sha1 = "15f8a40356288c4e1ad7237bda2de1cb5f86ba87"
+libc = "musl"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "a132be01e6affacbbedc98b07fbea8d0d719ace69122fbc1016887cc4b50ec28"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.aarch64-linux-musl.tar.gz"
+[[gmime]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ac25608b7aa4617db19f23e0edecb22fe7dfd68a"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "c8f16a721f692f334d52cd63a3b615b19731c1cd214e1aee5f9cf6853a531b9f"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.armv6l-linux-gnueabihf.tar.gz"
+[[gmime]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ef620be9abbd6f1b9e82395a22d9e31763b58fc"
+libc = "musl"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "4a8e0a0d420d3d852f56b733f83ff2372cd9c1b7d6630932c7b3abc70072b66f"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.armv6l-linux-musleabihf.tar.gz"
+[[gmime]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3b36b18f47f332b42fb1916d333b719d88d68b03"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "7ba2eed179b5d1617c26f29cf60036e757257b5d802a8300769502de45ec80d5"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.armv7l-linux-gnueabihf.tar.gz"
+[[gmime]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "88a683ba5791605cc8fc38f0715d0f38a7198d6c"
+libc = "musl"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "53ff1a5d7c478ae710a78982373353984867b4147e3a19ea3f3c7d179a77b67f"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.armv7l-linux-musleabihf.tar.gz"
+[[gmime]]
+arch = "i686"
+git-tree-sha1 = "c58a2a4b65af040a3addb5d0db74aaa845004cca"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "3ebcc14518dcbb1980a3cd1f19a30c08e0417459d5df73f6479fe1dd97a9a3f3"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.i686-linux-gnu.tar.gz"
+[[gmime]]
+arch = "i686"
+git-tree-sha1 = "1875f7096c485408523079dbb8e5d1a647f4cc1e"
+libc = "musl"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "16af79c195c119f241336c907f9b85ff97171ace10d7ef7660e7ffe77710fe60"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.i686-linux-musl.tar.gz"
+[[gmime]]
+arch = "i686"
+git-tree-sha1 = "d5d9ac47330bdd1666a334e2cdbc97dbe94a6c6a"
+os = "windows"
+
+    [[gmime.download]]
+    sha256 = "8dd288dbd524422b2fed508f4bc6cfd1b735db866bcedf0df32f8c945f71da83"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.i686-w64-mingw32.tar.gz"
+[[gmime]]
+arch = "powerpc64le"
+git-tree-sha1 = "5a2690046e79a54d9250c21c1fdf3089542d543f"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "2b26a527022a0f33113d8a7cf198ef8f397f549cdb08e4ad975322ef1653bf48"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.powerpc64le-linux-gnu.tar.gz"
+[[gmime]]
+arch = "x86_64"
+git-tree-sha1 = "731410aa08c16194a6bf72138881e983077b04c5"
+os = "macos"
+
+    [[gmime.download]]
+    sha256 = "172aede08184f0ff9ac17946d391568f95fb4c8602ab289a047fb0e05a6e2ff5"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.x86_64-apple-darwin.tar.gz"
+[[gmime]]
+arch = "x86_64"
+git-tree-sha1 = "1a202b1b5e326916ef6b03805fe0b367bf5b1a07"
+libc = "glibc"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "a32f2301e78571bdb1c7f1f191e3410d55613c68dc29992abf05d468d2d92e00"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.x86_64-linux-gnu.tar.gz"
+[[gmime]]
+arch = "x86_64"
+git-tree-sha1 = "39c803523b57bbf64da0b54c731c4ba4f785efd2"
+libc = "musl"
+os = "linux"
+
+    [[gmime.download]]
+    sha256 = "3f8dfd25c17d9bcd7597beb09211b4ef95f0c96af49b33ddab922ed07a748a05"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.x86_64-linux-musl.tar.gz"
+[[gmime]]
+arch = "x86_64"
+git-tree-sha1 = "86bf140b35f8f09f4a66c676b0ea0252a8279ac9"
+os = "freebsd"
+
+    [[gmime.download]]
+    sha256 = "25ab698ee4bcd14d9592336e687cfa76f3850a3432d732ee778f1cf8fac6a7e2"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.x86_64-unknown-freebsd.tar.gz"
+[[gmime]]
+arch = "x86_64"
+git-tree-sha1 = "3c394c7feac69bb7f0378cc654cdafe118f4acab"
+os = "windows"
+
+    [[gmime.download]]
+    sha256 = "2c4db4d767f3f511e741785e987d4a498b64831244fb70bdc5125fe457e9184d"
+    url = "https://github.com/JuliaBinaryWrappers/gmime_jll.jl/releases/download/gmime-v3.2.15+0/gmime.v3.2.15.x86_64-w64-mingw32.tar.gz"
